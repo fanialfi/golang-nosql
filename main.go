@@ -8,7 +8,8 @@ func main() {
 	// Insert()
 	// Find()
 	// Update()
-	Remove()
+	// Remove()
+	Aggregate()
 }
 
 type Student struct {
